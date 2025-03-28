@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'feature/authentication/homescreen.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'feature/authentication/signout.dart';
 import 'feature/quizzsection/quizpage.dart';
 
