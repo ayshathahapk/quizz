@@ -7,15 +7,7 @@ import 'feature/quizzsection/quizpage.dart';
 void main() {
   runApp(const MyApp());
 }
-//
-// import 'package:firebase_core/firebase_core.dart';
-// import 'firebase_options.dart';
-//
-// // ...
-//
-// await Firebase.initializeApp(
-// options: DefaultFirebaseOptions.currentPlatform,
-// );
+
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});

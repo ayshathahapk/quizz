@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
 import '../authentication/signout.dart';
 
 class QuizScreen extends StatefulWidget {
