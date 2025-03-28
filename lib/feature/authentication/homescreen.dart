@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../quizzsection/quizpage.dart';
 
 class AuthScreen extends StatelessWidget {
